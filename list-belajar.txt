@@ -5,3 +5,6 @@ List yang harus dipelajarin semester 4 :
 4. Server (SQL,PHP,ASP)
 5. Bootstrap
 6. Laravel
+
+List yang pengen dibuat :
+1. Buat web sejarah tokoh2 mitologi dunia
