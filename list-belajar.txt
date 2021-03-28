@@ -1,0 +1,7 @@
+List yang harus dipelajarin semester 4 :
+1. HTML
+2. CSS
+3. JavaScript
+4. Server (SQL,PHP,ASP)
+5. Bootstrap
+6. Laravel
